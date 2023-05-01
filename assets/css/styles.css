@@ -181,6 +181,7 @@ p{
     z-index: 19;
     bottom: 40%;
     left: 19%;
+    display: none;
 }
 .bredcrumb-two{
     position: absolute;

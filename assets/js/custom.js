@@ -29,6 +29,17 @@ $(document).ready(function(){
         arrows : true
     });
   });
+$(document).ready(function(){
+    $('.hero-slider').slick({
+        slidesToShow: 1,
+        autoplay : true,
+        fade : true,
+        speed : 900,
+        slidesToScroll: 1,
+        // dots: true,
+        arrows : true
+    });
+  });
 
 // login form 
 
